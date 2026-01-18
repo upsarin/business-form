@@ -1,0 +1,10 @@
+body { font-family: system-ui, Arial, sans-serif; }
+.wrap { max-width: 560px; margin: 30px auto; padding: 0 12px; }
+label { display:block; margin: 12px 0 6px; }
+input, button { width: 100%; padding: 10px; box-sizing: border-box; }
+button { margin-top: 14px; cursor: pointer; }
+.captcha { margin: 14px 0; }
+.hp { position:absolute; left:-9999px; top:-9999px; }
+.msg { margin-top: 12px; padding: 10px; border-radius: 10px; }
+.msg.ok { background: #eaffea; }
+.msg.err { background: #ffecec; }
