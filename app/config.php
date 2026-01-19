@@ -2,7 +2,6 @@
 return [
     'app' => [
         'site_path' => '', // эта настройка скорее для подсайтов
-        'env' => 'prod',   // 'dev'|'prod'
     ],
 
     'recaptcha' => [
